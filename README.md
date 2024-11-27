@@ -1,2 +1,4 @@
 # Stocks_Dashboard
 Created a highly interactive Stocks Dashboard.
+
+Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNmY4MWYxYjYtOWY0MS00Y2E5LWFkMzEtZmNjOTUwMjg4MDI5IiwidCI6IjY0ZGU2ZGRmLTA4ZTAtNGJjNy1iYTdkLWZmNTM1MmU1MGFjYyJ9
